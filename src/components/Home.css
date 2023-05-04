@@ -1,0 +1,55 @@
+
+body{
+    height: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+.tablediv{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.table{
+    width: auto;
+    margin: 100 auto;
+    text-align: center;
+    color: white;
+    box-shadow: #000000 0px 0px 10px 0px;
+}
+
+.tablehead{
+    background-color: #d1d1d13f;
+    font-weight: bold;
+    color: white;
+    width: 50px;
+    text-align: center;
+    align-items: center;
+}
+
+.tablerow{
+    background-color: #d1d1d13f;
+    color: white;
+    width: 100px;
+    text-align: center;
+    align-items: center;
+}
+.tablecell{
+    text-align: center;
+    align-items: center;
+    width: 100px;
+    color: white;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.footer{
+    height:50px;
+}
